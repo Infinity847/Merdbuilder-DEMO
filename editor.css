@@ -1,0 +1,66 @@
+body {
+    background-color:rgb(230, 228, 228);
+    text-align:center;
+}
+h5,h6,p,i,h3,h4 {
+    color:black;
+}
+h1,h2 {
+    color:black;
+    font-size:50px;
+
+}
+.leftpanel {
+    float:left;
+    margin:left;
+    background-color:lightgrey;
+border:2px solid gray;
+border-radius:15px;
+height:100%;
+width:300px;
+}
+.rightpanel {
+    top:0;
+    float:right;
+    margin:right;
+    background-color:lightgrey;
+border:2px solid gray;
+border-radius:15px;
+height:100%;
+width:300px;
+}
+.panelbtns {
+    background-color:lightgrey;
+border:0px solid gray;
+border-radius:15px;
+color:black;
+}
+.panelbtns:hover {
+    background-color:lightgrey;
+border:0px solid gray;
+border-radius:15px;
+color:rgb(66, 66, 255);
+box-shadow:5px 5px 38px rgb(66, 66, 255);
+}
+.invisileftpanel {
+float:left;
+}
+.contentheader {
+    text-align:center;
+}
+.submitbtn {
+    color:white;
+    background-color:rgb(17, 255, 0);
+    border:2px solid rgb(74, 192, 0);
+    border-radius:15px;
+}
+.coolbtn {
+    background-color:lightgrey;
+border:0px solid gray;
+border-radius:15px;
+}
+.coolbtn:hover {
+    background-color:lightgrey;
+    border:2px solid rgb(66, 66, 255);
+    box-shadow:5px 5px 38px rgb(66, 66, 255);
+}
